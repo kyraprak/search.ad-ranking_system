@@ -30,8 +30,7 @@ The interface is designed to resemble a lightweight marketing dashboard:
 Each ad receives a score:
 Ads are sorted from highest to lowest score.
 
-## Installation
-```bash pip install -r requirements.txt
+## Installation ```bash pip install -r requirements.txt
 
 <img width="2880" height="1800" alt="search rank display" src="https://github.com/user-attachments/assets/d17d1efd-5da0-4abd-a500-f92d0fe88832" />
 
