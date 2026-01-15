@@ -33,5 +33,8 @@ Ads are sorted from highest to lowest score.
 ## Installation
 ```bash
 pip install -r requirements.txt
-<img width="2880" height="1800" alt="search rank display" src="https://github.com/user-attachments/assets/8f9d0e87-0ecb-437c-9a60-2e9059584392" />
+
+<img width="2880" height="1800" alt="search rank display" src="https://github.com/user-attachments/assets/3eb0c4f0-4c81-4af6-9c49-f5e113fb7aeb" />
+
+
 
